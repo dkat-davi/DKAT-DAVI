@@ -9,8 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKAT-DAVI&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-##
-
 <div style="display: inline_block"><br>
     <img align="center" alt="DKAT-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="DKAT-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
@@ -23,3 +21,7 @@
     <img align="right" alt="DKAT-PHOTO" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/86988184?v=4">
 
 </div>
+
+##
+
+
