@@ -1,5 +1,7 @@
 ### Hi! I'm DKAT 🧑‍💻
 
+- 🧑‍💻 Davi Kalel Andrade Teixeira
+- 🏠 Montes Claros, Minas Gerais, Brasil
 - 📚 2º ano de Técnico em Informática pelo IFNMG-Montes Claros
 - 🌱 Atualmente estudando POO e Banco de Dados
 
