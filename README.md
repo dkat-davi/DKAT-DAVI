@@ -25,6 +25,8 @@
 </div>
 
 ##
+  
+![snake gif](https://github.com/DKAT-DAVI/DKAT-DAVI/blob/output/github-contribution-grid-snake.svg)
 
 
 
