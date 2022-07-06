@@ -25,7 +25,4 @@
 </div>
 
 ##
-
-![Snake animation](https://github.com/DKAT-DAVI/DKAT-DAVI/blob/output/github-contribution-grid-snake.svg)
  
-
