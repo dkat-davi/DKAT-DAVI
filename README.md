@@ -20,7 +20,7 @@
     <img align="center" alt="DKAT-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="DKAT-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">    
     <img align="center" alt="DKAT-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">    
-    <img align="right" alt="DKAT-PHOTO" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/86988184?v=4">
+    <img align="right" alt="DKAT-PHOTO" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/755839774807556242/994404629565673593/GithHubProfilePhoto2.jpeg">
 
 </div>
 
