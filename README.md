@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/DKAT-DAVI">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=DKAT-DAVIandry81&theme=dark&count_private=true&show_icons=true&include_all_commits=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=DKAT-DAVI&theme=dark&count_private=true&show_icons=true&include_all_commits=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKAT-DAVI&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
