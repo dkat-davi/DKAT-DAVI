@@ -3,7 +3,7 @@
 - 🧑‍💻 Davi Kalel Andrade Teixeira
 - 🏠 Montes Claros, Minas Gerais, Brasil
 - 📚 2º ano de Técnico em Informática pelo IFNMG-Montes Claros
-- 🌱 Atualmente estudando POO e Banco de Dados
+- 🌱 Atualmente estudando POO, Banco de Dados e Desenvolvimento WEB
 
 <div align="center">
   <a href="https://github.com/DKAT-DAVI">
