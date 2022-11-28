@@ -16,12 +16,16 @@
     <img align="center" alt="DKAT-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="DKAT-CSS#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="DKAT-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="DKAT-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">    
-    <img align="center" alt="DKAT-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">    
+    <img align="center" alt="DKAT-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">    
+    <img align="center" alt="DKAT-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">    
     <img align="right" alt="DKAT-PHOTO" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/755839774807556242/994404629565673593/GithHubProfilePhoto2.jpeg">
 
 </div>
-
+  
 ##
- 
+  
+<div> 
+  <a href="https://www.linkedin.com/in/dkat-davi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
 ![snake gif](https://github.com/DKAT-DAVI/DKAT-DAVI/blob/output/github-contribution-grid-snake.svg)
