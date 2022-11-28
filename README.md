@@ -23,9 +23,12 @@
 </div>
   
 ##
+
+<div>
   
-<div> 
-  <a href="https://www.linkedin.com/in/dkat-davi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  [![Linkedin: SEU NOME](https://img.shields.io/badge/-dkatdavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/dkat-davi/))](https://www.linkedin.com/in/dkat-davi/)
+[![Gmail Badge](https://img.shields.io/badge/-dkatdavi@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dkatdavi@gmail.com)](mailto:dkatdavi@gmail.com)
+[![GitHub SEU NOME](https://img.shields.io/github/followers/dkat-davi?label=follow&style=social)](https://github.com/dkat-davi)
 </div>
   
 ![snake gif](https://github.com/DKAT-DAVI/DKAT-DAVI/blob/output/github-contribution-grid-snake.svg)
