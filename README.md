@@ -1,9 +1,9 @@
 ### Hi! I'm DKAT 🧑‍💻
 
 - 🧑‍💻 Davi Kalel Andrade Teixeira
-- 🏠 Montes Claros, Minas Gerais, Brasil
-- 📚 2º ano de Técnico em Informática pelo IFNMG-Montes Claros
-- 🌱 Atualmente estudando POO, Banco de Dados e Desenvolvimento WEB
+- 🏠 Montes Claros, Minas Gerais, Brazil
+- 📚 2º year studying computing on IFNMG Montes Claros
+- 🌱 Learning OOP, Database e WEB Development
 
 <div align="center">
   <a href="https://github.com/DKAT-DAVI">
