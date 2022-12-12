@@ -3,7 +3,7 @@
 - 🧑‍💻 Davi Kalel Andrade Teixeira
 - 🏠 Montes Claros, Minas Gerais, Brazil
 - 📚 2º year studying computing on IFNMG Montes Claros
-- 🌱 Learning OOP, Database e WEB Development
+- 🌱 Learning OOP, Database and WEB Development
 
 <div align="center">
   <a href="https://github.com/DKAT-DAVI">
