@@ -5,11 +5,7 @@
 - 📚 2º year studying computing on IFNMG Montes Claros
 - 🌱 Learning OOP, Database and WEB Development
 
-<div align="center">
-  <a href="https://github.com/DKAT-DAVI">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=DKAT-DAVI&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKAT-DAVI&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
 
 <div style="display: inline_block"><br>
     <img align="center" alt="DKAT-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
