@@ -2,8 +2,8 @@
 
 - 🧑‍💻 Davi Kalel Andrade Teixeira
 - 🏠 Montes Claros, Minas Gerais, Brazil
-- 📚 2º year studying computing on IFNMG Montes Claros
-- 🌱 Learning OOP, Database and WEB Development
+- 📚 3º year studying computing on IFNMG Montes Claros
+- 🌱 Learning about WEB Development
 
 <div align="center">
   <a href="https://github.com/DKAT-DAVI">
@@ -12,13 +12,11 @@
 </div>
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="DKAT-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
     <img align="center" alt="DKAT-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="DKAT-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="DKAT-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
     <img align="center" alt="DKAT-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="DKAT-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">       
-
 </div>
   
 ##
