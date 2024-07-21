@@ -17,7 +17,7 @@
 
 <div align="center"> 
   <a href="mailto:dkat.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&count_private=true&theme=react&border_radius=10" />
   </a>
   <a href="https://www.linkedin.com/in/dkat-davi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -38,12 +38,22 @@
   
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://github.com/dkat-davi/dkat-davi/blob/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=dkat-davi&theme=react&hide_border=true">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dkat-davi&theme=react&hide_border=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=dkat-davi&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dkat-davi&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github" />
+</a>
 
+<br/>
+
+<hr/>
